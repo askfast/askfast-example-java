@@ -7,7 +7,7 @@
   
   <properties>
        <jetty.version>9.2.8.v20150217</jetty.version>
-       <askfast.version>1.3.2-SNAPSHOT</askfast.version>
+       <askfast.version>1.4.0</askfast.version>
    </properties>
   
   <dependencies>
